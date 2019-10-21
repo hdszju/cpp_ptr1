@@ -1,0 +1,3 @@
+/home/hds/CLionProjects/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hds/CLionProjects/cpp/cmake-build-debug/CMakeFiles/cpp.dir
+/home/hds/CLionProjects/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
